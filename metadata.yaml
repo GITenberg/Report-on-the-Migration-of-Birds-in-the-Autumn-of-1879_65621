@@ -1,5 +1,8 @@
 _repo: Report-on-the-Migration-of-Birds-in-the-Autumn-of-1879_65621
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65621-h/images/cover_epub.jpg
 creator:
   authors:
   - agent_name: Cordeaux, John
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '53432'
     url: http://www.gutenberg.org/2009/agents/53432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65621#Report-on-the-Migration-of-Birds-in-the-Autumn-of-1879
 gutenberg_issued: '2021-06-15'
 gutenberg_type: Text
 identifiers:
