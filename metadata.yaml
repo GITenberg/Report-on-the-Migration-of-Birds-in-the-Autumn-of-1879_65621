@@ -1,0 +1,26 @@
+_repo: Report-on-the-Migration-of-Birds-in-the-Autumn-of-1879_65621
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cordeaux, John
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '53325'
+    url: http://www.gutenberg.org/2009/agents/53325
+    wikipedia: https://en.wikipedia.org/wiki/John_Cordeaux_(ornithologist)
+  - agent_name: Harvie-Brown, John A.
+    gutenberg_agent_id: '53432'
+    url: http://www.gutenberg.org/2009/agents/53432
+description: ''
+gutenberg_issued: '2021-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Report on the Migration of Birds in the Autumn of 1879
+url: http://www.gutenberg.org/ebooks/65621
